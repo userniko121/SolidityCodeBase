@@ -1,0 +1,19 @@
+{
+  "name": "soliditycodebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "eth-lib": "^0.1.29",
+    "ganache-cli": "^6.12.2",
+    "web3": "^4.5.0",
+    "web3-react": "^5.0.5"
+  }
+}
